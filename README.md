@@ -9,3 +9,6 @@ We are updating a local cleaning service's website.
 ### Project Goals
 
 *Design a Logo
+*Create Service, About Us, Contact Us, and Testimonial pages
+*Find Imagery
+*Write Copy
