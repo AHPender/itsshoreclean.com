@@ -157,6 +157,13 @@ div#feature h1 {
   vertical-align: middle;
 }
 
+#feature-testimonial h1 {
+  display: table-cell;
+  font-size: 4vmax;
+  line-height: 1.1em;
+  vertical-align: middle;
+}
+
 /*  ================ Basic grid ================ */
 /*
 [class*='col-'] {
