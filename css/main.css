@@ -39,6 +39,19 @@ body {
   text-align: center;
 }
 
+#contact-bar p{
+  margin-bottom: 0.5em;
+}
+
+a.phone {
+  border-radius: 0 0 4px 4px;
+  color: whitesmoke;
+  margin-bottom: 2em;
+  padding: 2em 0;
+  text-align: center;
+  text-decoration: none;
+}
+
 .close {
   margin-top: -20em;
   transition: margin-top .3s ease-out;
