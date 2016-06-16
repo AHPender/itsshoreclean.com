@@ -71,12 +71,17 @@ a.phone {
   }
 }
 
+.welcome h2{
+  margin-top: 2em;
+}
+
 .welcome p{
-  background-color: #263577;
-  border: 1em solid #585858;
-  color: whitesmoke;
-  margin-top:2em;
-  padding: 2em;
+  background-color: #BAE3ED;
+  border: 1em solid #808080;
+  color: #585858;
+  font-size: 1.25em;
+  margin-top:1em;
+  padding: 1.5em;
   text-align: center;
   text-decoration: none;
 }
