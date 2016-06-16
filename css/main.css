@@ -71,6 +71,16 @@ a.phone {
   }
 }
 
+.welcome p{
+  background-color: #263577;
+  border: 1em solid #585858;
+  color: whitesmoke;
+  margin-top:2em;
+  padding: 2em;
+  text-align: center;
+  text-decoration: none;
+}
+
 
 /*  ================ Headings ================ */
 
