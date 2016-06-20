@@ -86,6 +86,11 @@ a.phone {
   text-decoration: none;
 }
 
+p span
+{
+    display: block;
+}
+
 
 /*  ================ Headings ================ */
 
