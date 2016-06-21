@@ -43,7 +43,15 @@ body {
   margin-bottom: 0.5em;
 }
 
-a [href="mailto:ggalvin@itsshoreclean.com"] {color:#585858;}
+a[href="mailto:ggalvin@itsshoreclean.com"] {
+  color:#263577;
+  text-decoration: none;
+}
+
+a[href="tel:410-271-2444"] {
+  color:#263577;
+  text-decoration: none;
+}
 
 a.phone {
   border-radius: 0 0 4px 4px;
@@ -72,6 +80,14 @@ a.phone {
   text-align: left;
 }
 
+.services-p1 {
+  text-align: left;
+}
+
+.services-p2{
+  text-align: left;
+}
+
 @media (min-width: 64em) {
   #contact-bar {
     height: 12em;
@@ -81,8 +97,15 @@ a.phone {
   }
 }
 
-.welcome h2{
-  margin-top: 2em;
+.services p{
+  background-color: #BAE3ED;
+  border: 1em solid #808080;
+  color: #585858;
+  font-size: 1.25em;
+  margin-top:1em;
+  padding: 1.5em;
+  text-align: center;
+  text-decoration: none;
 }
 
 .welcome p{
@@ -122,6 +145,14 @@ h3 {
   font-size: 1.5em;
 }
 
+.services h2{
+  line-height: 1em;
+  margin-top: 2em;
+}
+
+.welcome h2{
+  margin-top: 2em;
+}
 
 /*  ================ Layout: header ================ */
 
