@@ -102,6 +102,10 @@ a.phone {
   text-align: left;
 }
 
+.services-p5 {
+  text-align: left;
+}
+
 @media (min-width: 64em) {
   #contact-bar {
     height: 12em;
