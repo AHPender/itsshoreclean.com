@@ -88,14 +88,17 @@ a.phone {
 
 .services-p1 {
   text-align: left;
-  font-style:italic;
 }
 
-.services-p2{
+.services-p2 {
   text-align: left;
 }
 
-.services-p3{
+.services-p3 {
+  text-align: left;
+}
+
+.services-p4 {
   text-align: left;
 }
 
