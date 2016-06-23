@@ -80,11 +80,22 @@ a.phone {
   text-align: left;
 }
 
-.services-p1 {
+.services-p0 {
+  font-size: 2em;
+  line-height: 1em;
   text-align: left;
 }
 
+.services-p1 {
+  text-align: left;
+  font-style:italic;
+}
+
 .services-p2{
+  text-align: left;
+}
+
+.services-p3{
   text-align: left;
 }
 
