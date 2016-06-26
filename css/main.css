@@ -134,6 +134,17 @@ a.phone {
   text-decoration: none;
 }
 
+.testimonials p{
+  background-color: #BAE3ED;
+  border: 1em solid #808080;
+  color: #585858;
+  font-size: 1.25em;
+  margin-top:1em;
+  padding: 1.5em;
+  text-align: center;
+  text-decoration: none;
+}
+
 .welcome p{
   background-color: #BAE3ED;
   border: 1em solid #808080;
