@@ -114,6 +114,11 @@ a.phone {
   text-align: left;
 }
 
+.testimonial-1 {
+  font-style:italic;
+  text-align:left;
+}
+
 @media (min-width: 64em) {
   #contact-bar {
     height: 12em;
@@ -314,4 +319,10 @@ html {
   content: "";
   display: table;
   clear: both;
+}
+
+/*---------Hacks------------*/
+
+#facebook ._3x-2 {
+  display: none;
 }
