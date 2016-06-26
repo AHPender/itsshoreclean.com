@@ -102,6 +102,23 @@ a.phone {
   text-align: left;
 }
 
+.services-p5 {
+  text-align: left;
+}
+
+.services-p6 {
+  text-align: left;
+}
+
+.services-p7 {
+  text-align: left;
+}
+
+.testimonial-1 {
+  font-style:italic;
+  text-align:left;
+}
+
 @media (min-width: 64em) {
   #contact-bar {
     height: 12em;
@@ -119,6 +136,25 @@ a.phone {
   margin-top:1em;
   padding: 1.5em;
   text-align: center;
+  text-decoration: none;
+}
+
+.testimonial-image{
+  float: left;
+  height: auto;
+  padding: 0 20px 20px 0;
+  max-width: 7em;
+}
+
+.testimonials p{
+  background-color: #BAE3ED;
+  border: 1em solid #808080;
+  color: #585858;
+  font-size: 1.25em;
+  font-style: italic;
+  margin:1em;
+  padding: 1.5em;
+  text-align: left;
   text-decoration: none;
 }
 
@@ -291,4 +327,10 @@ html {
   content: "";
   display: table;
   clear: both;
+}
+
+/*---------Hacks------------*/
+
+#facebook ._3x-2 {
+  display: none;
 }

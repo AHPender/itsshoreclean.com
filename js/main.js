@@ -18,9 +18,9 @@ function handlerActive(e) {
 }
 
 var myContactBar = document.getElementById('contact-bar');
-var myContactNavItem = document.querySelector('[href="#contact"]');
+var myNavItem = document.querySelector('[href="#contact"]');
 
-myContactNavItem.addEventListener("click", handlerContactBar, false);
+myNavItem.addEventListener("click", handlerContactBar, false);
 
 function handlerContactBar() {
 
