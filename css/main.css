@@ -158,6 +158,11 @@ a.phone {
   text-decoration: none;
 }
 
+.testimonial-rating >:span:hover:before{
+   content: "\2605";
+   position: absolute;
+}
+
 .welcome p{
   background-color: #BAE3ED;
   border: 1em solid #808080;
