@@ -146,6 +146,13 @@ a.phone {
   max-width: 7em;
 }
 
+.testimonial-image-2{
+  float: left;
+  height: auto;
+  padding: 0 20px 20px 0;
+  max-width: 6em;
+}
+
 .testimonials p{
   background-color: #BAE3ED;
   border: 1em solid #808080;
